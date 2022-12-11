@@ -32,7 +32,7 @@
     "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "express-session": "^1.16.2",
     "http-status-code": "^2.1.0",
